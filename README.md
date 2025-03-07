@@ -5,4 +5,5 @@ To run project first install `pygame` and `numpy`
 pip install -r requirements.txt
 ```
 
-Then simply run main.py
+Then simply run `main.py`
+
